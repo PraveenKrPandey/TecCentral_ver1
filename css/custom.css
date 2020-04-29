@@ -1,0 +1,63 @@
+/*
+change brand font
+
+*/
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+
+}
+
+/* change navigation color */
+.navbar #myMenu .custom-nav .nav-item a {
+  color: #ffffff;
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover {
+  color: #f0aab1;
+}
+
+.back-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 600px;
+  border-radius: 0px;
+  margin-top: 74px;
+}
+
+/* header Image sub-title tag line  */
+.font-italic {
+  font-size: 24px;
+}
+
+
+/*margin for main heading  */
+.mainHeading {
+  margin-top: 50px;
+}
+
+
+.container .row .col-md-4 .ContacAddress{
+  border: 2px orange solid;
+  border-radius: 20px;
+  background-color: #FF907F;
+}
+
+.container .row .col-md-4 .ContacAddress strong{
+  font-weight: bold;
+  font-style: italic;
+  color: #1961F0;
+  
+}
+
+/* media query*** */
+@media only screen and (max-width:600px) {
+  .myclass {
+    margin-top: 300px;
+    text-align: center;
+  }
+
+}
