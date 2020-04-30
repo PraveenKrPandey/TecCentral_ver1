@@ -60,7 +60,7 @@
 
         <!-- Start Introduction Section -->
         <div class="jumbotron bg-muted">
-        <div class="container">
+            <div class="container">
                 <h3 class="text-center text-success">TecCentral Services</h3>
                 <p class="introPrara text-info" id="introP">
                     TecCentral is the leading website company in India in Delhi Ncr.
@@ -99,7 +99,7 @@
                 </div>
                 <div class="col-sm-4 mb4">
                     <a href="#">
-                    <i class=""></i>
+                        <i class=""></i>
                         <i class="fab fa-android fa-8x text-info"></i></a>
                     <h4 class="mt-4">Android Devlopment</h4>
                 </div>
@@ -120,9 +120,9 @@
                 <div class="col-lg-3 col-sm-6 mt-2">
                     <div class="card shadow-lg mb-2">
                         <div class="card-body text-center">
-                            
-                        <i class="fas fa-user-circle fa-8x text-primary"></i>
-                        <!-- <img src="image/avtar1.jpeg" alt="avt1" class="img-fluid" style="border-radius:100px;"> -->
+
+                            <i class="fas fa-user-circle fa-8x text-primary"></i>
+                            <!-- <img src="image/avtar1.jpeg" alt="avt1" class="img-fluid" style="border-radius:100px;"> -->
                             <h4 class="card-title">Praveen Pandey</h4>
                             <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                                 ducimus voluptas
@@ -134,9 +134,9 @@
                 <div class="col-lg-3 col-sm-6 mt-2">
                     <div class="card shadow-lg mb-2">
                         <div class="card-body text-center">
-                            
-                        <i class="fas fa-user-circle fa-8x text-success"></i>
-                        <!-- <img src="image/avtar2.jpeg" alt="avt2" class="img-fluid" style="border-radius:100px;"> -->
+
+                            <i class="fas fa-user-circle fa-8x text-success"></i>
+                            <!-- <img src="image/avtar2.jpeg" alt="avt2" class="img-fluid" style="border-radius:100px;"> -->
                             <h4 class="card-title">soman Sharma</h4>
                             <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                                 ducimus voluptas
@@ -148,8 +148,8 @@
                 <div class="col-lg-3 col-sm-6 mt-2">
                     <div class="card shadow-lg mb-2">
                         <div class="card-body text-center">
-                        <i class="fas fa-user-circle fa-8x text-primary"></i>    
-                        <!-- <img src="image/avtar3.jpeg" alt="avt3" class="img-fluid" style="border-radius:100px;"> -->
+                            <i class="fas fa-user-circle fa-8x text-primary"></i>
+                            <!-- <img src="image/avtar3.jpeg" alt="avt3" class="img-fluid" style="border-radius:100px;"> -->
                             <h4 class="card-title">ved vyas</h4>
                             <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                                 ducimus voluptas
@@ -161,9 +161,9 @@
                 <div class="col-lg-3 col-sm-6 mt-2">
                     <div class="card shadow-lg mb-2">
                         <div class="card-body text-center">
-                            
-                        <i class="fas fa-user-circle fa-8x text-success"></i>
-                        <!-- <img src="image/avtar4.jpeg" alt="avt4" class="img-fluid" style="border-radius:100px;"> -->
+
+                            <i class="fas fa-user-circle fa-8x text-success"></i>
+                            <!-- <img src="image/avtar4.jpeg" alt="avt4" class="img-fluid" style="border-radius:100px;"> -->
                             <h4 class="card-title">gauri gupta</h4>
                             <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                                 ducimus voluptas
@@ -204,6 +204,12 @@
         </footer>
 
         <!-- Boostrap JavaScript -->
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+
         <script src="js/jquery.min.js"></script>
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
