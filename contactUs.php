@@ -9,7 +9,7 @@
                 <input type="text" class="form-control" name="Subject" placeholder="Subject"><br>
                 <input type="email" class="form-control" name="Email" placeholder="Email"><br>
                 <textarea name="message" class="form-control" placeholder="how can we help you?" style="height:150px;"></textarea>
-                <input type="submit" class="btn btn-warning" value="Send" name="Submit"><br><br>
+                <input type="submit" class="btn btn-primary" value="Send" name="Submit"><br><br>
             </form>
         </div>
         <!--End of 1st column-->
@@ -21,7 +21,7 @@
                 Hari Nagar, New Delhi<br>
                 Delhi-110064 <br>
                 phone: 882467286<br><br>
-                <!-- <a href="#" target="_blank">www.TecCentral.com</a><br> -->
+                
             </div>
             <br>
             <div class="ContacAddress">
@@ -30,7 +30,7 @@
                 shiv nagar, Pune <br>
                 Maharastra - 546465 <br>
                 phone: 882467286 <br><br>
-                <!-- <a href="#" target="_blank">www.TecCentral.com</a> -->
+                
             </div>
             <br>
             <div class="ContacAddress">

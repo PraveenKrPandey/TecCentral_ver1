@@ -1,35 +1,12 @@
-<?php //include('dbConnetion.php');
+<?php 
+// include('dbConnetion.php');
 
-if (isset($_REQUEST['rSignup'])) {
+if (isset($_REQUEST['rSignup'])){
     if (($_REQUEST['rName'] == "") || ($_REQUEST['rEmail'] == "") || ($_REQUEST['rPassword'] == "")) {
         $regmsg = '<div class="alert alert-warning mt-2" role="alert">All Fields are Required</div>';
-    } else {
-        // $rName = $_REQUEST['rName'];
-        // $rEmail = $_REQUEST['rEmail'];
-        // $rPassword = $_REQUEST['rPassword'];
-        // $sql = "insert into requesterlogin(r_name, r_email, r_password) VALUES ('$rName', '$rEmail','$rPassword')";
-
-        // try {
-        //     if ($conn->query($sql) == true) {
-        $regmsg = '<div class="alert alert-success mt-2" role="alert">Account  Succefully Created</div>';
-        // } else {
-
-        // $regmsg = '<div class="alert alert-danger mt-2" role="alert">Unknown Error</div>';
-        // }
-
-        // } catch (Exception $e) {
-        // echo "i dont know";
-        // }
-
-    }
-}
-
-
-
-// echo "$rName<br>";
-// echo "$rEmail<br>";
-// echo "$rPassword<br>";
-?>
+    }else {
+        $regmsg = '<div class="alert alert-success mt-2" role="alert">Account  Succefully Created</div>';    }
+}  ?>
 
 <!-- start registration form -->
 <div class="container pt-5 id=" registration">
